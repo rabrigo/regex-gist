@@ -61,5 +61,5 @@ My name is Ronnel and here is my GitHub profile: https://github.com/rabrigo
 
 A big thank you to the following websites for helping me understand regex.
 
-https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
+https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial <br>
 https://regex101.com/
